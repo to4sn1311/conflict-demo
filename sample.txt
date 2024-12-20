@@ -1,2 +1,2 @@
-Anyone can learn Git with sample.txt
-
+Anyone can learn Git with this tutorial
+branch1: Add more Git commands
