@@ -1,2 +1,3 @@
-Anyone can learn Git with sample.txt
+Anyone can learn Git with this tutorial
+branch2: Add explanation for merge conflicts
 
