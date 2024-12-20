@@ -1,2 +1,4 @@
 Anyone can learn Git with this tutorial
 branch1: Add more Git commands
+branch2: Add explanation for merge conflicts
+
